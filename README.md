@@ -33,7 +33,8 @@
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshitUpreti&theme=react-dark&hide_border=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
