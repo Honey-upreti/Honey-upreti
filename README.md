@@ -56,7 +56,7 @@
 
 ### 🌐 Connect with me
 <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_ID/](https://www.linkedin.com/in/harshit-upreti-77b982352?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/Yharshit.upreti.07/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/harshit.upreti.07/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:harshitupreti07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ---
