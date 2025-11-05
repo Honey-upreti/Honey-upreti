@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hey there, I'm Harshit Upreti  
 
-<!--
-**Honey-upreti/Honey-upreti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-Year CSE student at Nanhi Pari College (NPSEI), Pithoragarh  
+💻 Currently learning coding & exploring frontend development  
+🚀 Passionate about building clean UI and learning full-stack dev  
+📚 Love reading about tech, films, and modern computing  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- 💡 Languages: C, JavaScript, HTML, CSS  
+- ⚙️ Tools: VS Code, Git, Linux (learning)  
+- 🌐 Interests: Frontend Development, Open Source  
+
+---
+
+### 📊 GitHub Stats
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Honey-upreti&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Honey-upreti&layout=compact&theme=tokyonight)
+
+---
+
+### 🌟 Fun Fact
+When I’m not coding, I’m either watching *Sita Ramam* again or fixing my VS Code theme 😅
