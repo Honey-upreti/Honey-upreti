@@ -33,8 +33,8 @@
 
 ---
 
-### 🌟 Fun Fact
-When I’m not coding, I’m either watching *Sita Ramam* again or fixing my VS Code theme 😅
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshitUpreti&theme=react-dark&hide_border=true)
+
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
