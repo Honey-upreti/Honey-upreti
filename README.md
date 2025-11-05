@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshitUpreti&show_icons=true&theme=tokyonight" />
+</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Hey+there!+I'm+Harshit+Upreti.;CSE+Student+at+NPSEI.;Let's+build+something+awesome!)](https://git.io/typing-svg)
 
 # 👋 Hey there, I'm Harshit Upreti  
@@ -49,4 +53,15 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Honey-upreti&theme=tokyonight)](https://git.io/streak-stats)
+
+### 🌐 Connect with me
+<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_ID/](https://www.linkedin.com/in/harshit-upreti-77b982352?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/Yharshit.upreti.07/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:harshitupreti07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+---
+⭐️ From [Harshit Upreti](https://github.com/HarshitUpreti)
+> “Code. Coffee. Repeat.”
+
+
 
