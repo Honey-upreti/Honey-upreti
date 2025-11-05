@@ -23,3 +23,11 @@
 
 ### 🌟 Fun Fact
 When I’m not coding, I’m either watching *Sita Ramam* again or fixing my VS Code theme 😅
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">  
+![Banner](banner.png)
+
