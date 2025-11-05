@@ -48,6 +48,12 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshitUpreti&theme=react-dark&hide_border=true)
 
+<p align="center">
+  <a href="https://honey-upreti.github.io/snake-game/" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Snake-Now!-brightgreen?style=for-the-badge" alt="Play Snake" />
+  </a>
+</p>
+
 
 ### 🌐 Connect with me
 <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_ID/](https://www.linkedin.com/in/harshit-upreti-77b982352?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
