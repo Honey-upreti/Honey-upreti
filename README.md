@@ -49,9 +49,6 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshitUpreti&theme=react-dark&hide_border=true)
 
 
-## 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Honey-upreti&theme=tokyonight&hide_border=true)
-
 ### 🌐 Connect with me
 <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_ID/](https://www.linkedin.com/in/harshit-upreti-77b982352?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/harshit.upreti.07/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
