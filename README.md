@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Hey+there!+I'm+Harshit+Upreti.;CSE+Student+at+NPSEI.;Frontend+Developer+in+the+making.;Let's+build+something+awesome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Hey+there!+I'm+Harshit+Upreti.;CSE+Student+at+NPSEI.;Let's+build+something+awesome!)](https://git.io/typing-svg)
 
 # 👋 Hey there, I'm Harshit Upreti  
 
@@ -15,6 +15,16 @@
 - 🌐 Interests: Frontend Development, Open Source  
 
 ---
+### 🧰 Languages and Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</p>
+
 
 ### 📊 GitHub Stats
 ![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Honey-upreti&show_icons=true&theme=tokyonight)
