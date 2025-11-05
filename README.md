@@ -44,7 +44,8 @@ When I’m not coding, I’m either watching *Sita Ramam* again or fixing my VS 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Honey-upreti.Honey-upreti)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Honey-upreti&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshitUpreti&theme=react-dark&hide_border=true)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Honey-upreti&theme=tokyonight)](https://git.io/streak-stats)
 
