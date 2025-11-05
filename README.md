@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Hey+there!+I'm+Harshit+Upreti.;CSE+Student+at+NPSEI.;Frontend+Developer+in+the+making.;Let's+build+something+awesome!)](https://git.io/typing-svg)
+
 # 👋 Hey there, I'm Harshit Upreti  
 
 🎓 Second-Year CSE student at Nanhi Pari College (NPSEI), Pithoragarh  
