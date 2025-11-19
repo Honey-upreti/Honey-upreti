@@ -57,7 +57,7 @@
 <a href="mailto:harshitupreti07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ---
-⭐️ From [Harshit Upreti](https://github.com/HarshitUpreti)
+⭐️ From [Harshit Upreti](https://github.com/Honey-Upreti)
 > “Code. Coffee. Repeat.”
 
 
