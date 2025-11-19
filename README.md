@@ -46,7 +46,11 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Honey-upreti.Honey-upreti)
 
+<!-- Primary (activity-graph) -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshitUpreti&theme=react-dark&hide_border=true)
+
+<!-- Fallback (ghchart) -->
+![GitHub Activity Graph Fallback](https://ghchart.rshah.org/HarshitUpreti)
 
 ### 🌐 Connect with me
 <a href="https://www.linkedin.com/in/harshit-upreti-77b982352/" target="_blank">
