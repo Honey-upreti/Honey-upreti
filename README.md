@@ -46,11 +46,10 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Honey-upreti.Honey-upreti)
 
 <!-- Streak stats (primary) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Honey-Upreti&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshitUpreti&theme=dark&hide_border=true)
 
 <!-- Fallback (contribution heatmap) -->
 ![GitHub Activity Graph Fallback](https://ghchart.rshah.org/HarshitUpreti)
-
 ### 🌐 Connect with me
 <a href="https://www.linkedin.com/in/harshit-upreti-77b982352/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
