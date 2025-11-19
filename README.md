@@ -47,7 +47,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Honey-upreti.Honey-upreti)
 
 <!-- Streak stats (primary) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshitUpreti&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Honey-Upreti&theme=dark&hide_border=true)
 
 <!-- Fallback (contribution heatmap) -->
 ![GitHub Activity Graph Fallback](https://ghchart.rshah.org/HarshitUpreti)
