@@ -46,7 +46,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Honey-upreti.Honey-upreti)
 
 <!-- 1) Primary: Streak stats (alternate endpoint, more reliable) -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=HarshitUpreti&theme=dark&hide_border=true)
+![GitHub Streak](![Streak Stats](https://streak-stats.demolab.com?user=HarshitUpreti&theme=dark&date_format=j%20M%5B%20Y%5D)
+)
 
 
 <!-- Fallback (contribution heatmap) -->
