@@ -48,15 +48,6 @@
 <!-- 1) Primary: Streak stats (alternate endpoint, more reliable) -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=HarshitUpreti&theme=dark&hide_border=true)
 
-<!-- 2) Secondary: Streak stats (original Heroku endpoint as a backup) -->
-![GitHub Streak (Heroku)](https://github-readme-streak-stats.herokuapp.com/?user=HarshitUpreti&theme=dark&hide_border=true)
-
-<!-- 3) Fallback: Contribution heatmap (shows your activity blocks) -->
-![GitHub Activity Graph Fallback](https://ghchart.rshah.org/HarshitUpreti)
-
-<!-- 4) Extra: General GitHub readme-stats (shows stars, commits, most-used langs) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshitUpreti&show_icons=true&theme=react-dark)
-
 
 <!-- Fallback (contribution heatmap) -->
 ![GitHub Activity Graph Fallback](https://ghchart.rshah.org/HarshitUpreti)
