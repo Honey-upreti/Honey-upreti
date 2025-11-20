@@ -52,9 +52,6 @@
 <!-- Fallback (contribution heatmap) -->
 ![GitHub Activity Graph Fallback](https://ghchart.rshah.org/Honey-upreti)
 
-
-<!-- Fallback (contribution heatmap) -->
-![GitHub Activity Graph Fallback](https://ghchart.rshah.org/HarshitUpreti)
 ### 🌐 Connect with me
 <a href="https://www.linkedin.com/in/harshit-upreti-77b982352/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
