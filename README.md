@@ -11,7 +11,7 @@
 
 ### 🛠️ Tech Stack
 - 💡 Languages: C, JavaScript, HTML, CSS  
-- ⚙️ Tools: VS Code, Git, Linux (learning)  
+- ⚙️ Tools: VS Code, Git 
 - 🌐 Interests: Frontend Development, Open Source  
 
 ---
@@ -46,8 +46,10 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Honey-upreti/Honey-upreti)
  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Honey-Upreti&theme=dark&hide_border=true)
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Honey-upreti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Honey-upreti&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Honey-upreti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- Fallback (contribution heatmap) -->
 ![GitHub Activity Graph Fallback](https://ghchart.rshah.org/Honey-upreti)
 
