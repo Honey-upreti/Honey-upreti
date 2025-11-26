@@ -25,12 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
 
-
-### 📊 GitHub Stats
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Honey-upreti&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Honey-upreti&layout=compact&theme=tokyonight)
-
 ---
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
