@@ -10,7 +10,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- 💡 Languages: C, JavaScript, HTML, CSS  
+- 💡 Languages: C, C++, JavaScript, HTML, CSS  
 - ⚙️ Tools: VS Code, Git, BlynkIot etc
 - 🌐 Interests: Frontend Development, Open Source  
 
