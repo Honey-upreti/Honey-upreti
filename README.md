@@ -50,11 +50,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Honey-upreti/Honey-upreti)
  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Honey-upreti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Honey-upreti&theme=dark&hide_border=false&v=1)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Honey-upreti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ### 🌐 Connect with me
 <a href="https://www.linkedin.com/in/harshit-upreti-77b982352/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
