@@ -1,37 +1,69 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Hey+there!+I'm+Harshit+Upreti.;CSE+Student+at+UTU.;Let's+build+something+awesome!)](https://git.io/typing-svg)
 
-# 👋 Hey there, I'm Harshit Upreti  
+# Hey, I'm Harshit Upreti 👋
 
-🎓 Third-Year CSE student at Nanhi Pari College (NPSEI), Pithoragarh  
-💻 Currently learning coding & exploring frontend development  
-🚀 Passionate about building clean UI and learning full-stack dev  
-📚 Love reading about tech, films, and modern computing  
+🎓 Third-Year Computer Science Engineering student at Nanhi Pari School of Excellence & Innovation (NPSEI), Pithoragarh.
+
+💻 Currently focused on **JavaScript and strengthening core web development concepts**, while building projects to apply what I learn.
+
+🎨 Exploring **CSS animations, 3D effects, and interactive web experiences** to understand how modern interfaces are built.
+
+🚀 Interested in **Frontend Development, Open Source, and eventually Full-Stack Development**.
 
 ---
 
 ### 🛠️ Tech Stack
-- 💡 Languages: C, C++, JavaScript, HTML, CSS  
-- ⚙️ Tools: VS Code, Git, BlynkIot etc
-- 🌐 Interests: Frontend Development, Open Source  
+
+**Languages & Web**
+- C
+- C++
+- HTML5
+- CSS3
+- JavaScript
+
+**Development & Tools**
+- Git & GitHub
+- VS Code
+- npm
+- Vercel
+- Netlify
+- Blynk IoT
+
+**Interests**
+- Frontend Development
+- Interactive UI
+- CSS Animations & 3D Effects
+- Open Source
 
 ---
-### 🧰 Languages and Tools
+
+### 🧰 Languages & Tools
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" height="40"/>
 </p>
+
+---
 
 ### 🌱 Currently Learning
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-</p>
 
+**JavaScript — Core Concepts → DOM → Interactive Web Development**
+
+Alongside JavaScript, I'm exploring:
+
+- CSS Animations & 3D Effects
+- Interactive UI Experiences
+- Modern Frontend Development
 ---
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
