@@ -6,9 +6,9 @@
 
 💻 Currently focused on **JavaScript and strengthening core web development concepts**, while building projects to apply what I learn.
 
-🎨 Exploring **CSS animations, 3D effects, and interactive web experiences** to understand how modern interfaces are built.
+🎨 Exploring **creative web development, CSS animations, 3D effects, and interactive experiences**, with a focus on building modern, visually engaging websites.
 
-🚀 Interested in **Frontend Development, Open Source, and eventually Full-Stack Development**.
+🚀 Interested in **Frontend Development, creative web experiences, Open Source, and eventually Full-Stack Development**.
 
 ---
 
@@ -21,6 +21,7 @@
 * HTML5
 * CSS3
 * JavaScript
+* SQL
 
 **Development & Tools**
 
@@ -39,8 +40,9 @@
 **Interests**
 
 * Frontend Development
-* Interactive UI
-* CSS Animations & 3D Effects
+* Creative Web Development
+* Interactive & 3D UI
+* CSS Animations
 * Open Source
 
 ---
@@ -56,26 +58,41 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/vercel" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGgQ-t_m6Gz2cYm-WNRsP4YtrI38BRPEE-_AYL-DlZyFZfmbjrYFErrQF&s=10" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/netlify" width="40" height="40"/>
 </p>
 
 ---
 
 ### 🌱 Currently Learning
-
-**JavaScript — Core Concepts → DOM → Interactive Web Development**
-
-Alongside JavaScript, I'm exploring:
-
-* CSS Animations & 3D Effects
-* Interactive UI Experiences
-* Web3 Fundamentals
-* Modern Frontend Development
-
 <p align="left">
-  <img src="https://cdn.simpleicons.org/web3dotjs" width="40" height="40" alt="Web3.js"/>
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+
+  <!-- Web3 / Ethereum -->
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5TzJIugGjCD7qI0awc9yA3QgBtMnEKu_DK0egsDBRsg&s=10" width="40" height="40" alt="Web3"/>
+
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
+
+  <!-- GSAP -->
+  <img src="https://cdn.simpleicons.org/greensock" width="40" height="40" alt="GSAP"/>
+
+  <!-- Anime.js -->
+  <img src="https://animejs.com/assets/images/anime-js-logo-v4.svg" height="40" alt="Anime.js"/>
+
+  <!-- MySQL / SQL -->
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVlv2Y4PIkz6IVT9iszpt4zuhldgZeJ_0LJkiOoQYGyw&s=10" width="40" height="40" alt="SQL"/>
 </p>
+- **JavaScript** — Core Concepts, DOM & Interactive Web Development
+- **Web3** — Exploring decentralized web technologies
+- **CSS** — Advanced Animations, 3D Effects & Creative Interactions
+- **GSAP & Anime.js** — Web Animations & Motion
+- **Creative Web Development** — Awwwards-inspired layouts and immersive experiences
+- **SQL & DBMS** — DDL, DML, Queries & Database Fundamentals
+
+---
+
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
