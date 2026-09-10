@@ -15,25 +15,33 @@
 ### 🛠️ Tech Stack
 
 **Languages & Web**
-- C
-- C++
-- HTML5
-- CSS3
-- JavaScript
+
+* C
+* C++
+* HTML5
+* CSS3
+* JavaScript
 
 **Development & Tools**
-- Git & GitHub
-- VS Code
-- npm
-- Vercel
-- Netlify
-- Blynk IoT
+
+* Git & GitHub
+* VS Code
+* Vercel
+* Netlify
+
+**IoT & Hardware — Basic Familiarity**
+
+* Blynk IoT
+* ESP32
+* Raspberry Pi Pico
+* DHT22 Sensor
 
 **Interests**
-- Frontend Development
-- Interactive UI
-- CSS Animations & 3D Effects
-- Open Source
+
+* Frontend Development
+* Interactive UI
+* CSS Animations & 3D Effects
+* Open Source
 
 ---
 
@@ -48,9 +56,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/vercel" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/netlify" width="40" height="40"/>
 </p>
 
 ---
@@ -61,10 +68,15 @@
 
 Alongside JavaScript, I'm exploring:
 
-- CSS Animations & 3D Effects
-- Interactive UI Experiences
-- Modern Frontend Development
----
+* CSS Animations & 3D Effects
+* Interactive UI Experiences
+* Web3 Fundamentals
+* Modern Frontend Development
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/web3dotjs" width="40" height="40" alt="Web3.js"/>
+</p>
+
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
