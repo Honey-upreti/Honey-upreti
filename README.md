@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Harshit Upreti  
 
-🎓 Second-Year CSE student at Nanhi Pari College (NPSEI), Pithoragarh  
+🎓 Third-Year CSE student at Nanhi Pari College (NPSEI), Pithoragarh  
 💻 Currently learning coding & exploring frontend development  
 🚀 Passionate about building clean UI and learning full-stack dev  
 📚 Love reading about tech, films, and modern computing  
