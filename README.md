@@ -84,13 +84,13 @@
   <!-- MySQL / SQL -->
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVlv2Y4PIkz6IVT9iszpt4zuhldgZeJ_0LJkiOoQYGyw&s=10" width="40" height="40" alt="SQL"/>
 </p>
-- **JavaScript** — Core Concepts, DOM & Interactive Web Development
+
+ **JavaScript** — Core Concepts, DOM & Interactive Web Development
 - **Web3** — Exploring decentralized web technologies
 - **CSS** — Advanced Animations, 3D Effects & Creative Interactions
 - **GSAP & Anime.js** — Web Animations & Motion
-- **Creative Web Development** — Awwwards-inspired layouts and immersive experiences
+- **Creative Web Development** — Awwwards-inspired layouts, motion & immersive experiences
 - **SQL & DBMS** — DDL, DML, Queries & Database Fundamentals
-
 ---
 
 
